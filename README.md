@@ -2,7 +2,7 @@
 ## Learning Objective - The purpose of this app is to use Android Services (background) to download some files.
 Downloads should continue even if the app is minimized.
 
-###App Name - AndroidServices
+### App Name - AndroidServices
 
 The activity PdfDownload downloads PDF files from the Internet - Cisco.  
 
